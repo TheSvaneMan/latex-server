@@ -12,7 +12,7 @@
   "dependencies": {
     "child_process": "^1.0.2",
     "cors": "^2.8.5",
-    "express": "^4.22.1",
+    "express": "^4.22.2",
     "formidable": "^3.5.4",
     "fs": "^0.0.1-security"
   }
